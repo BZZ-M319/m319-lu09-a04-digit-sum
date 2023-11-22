@@ -1,4 +1,9 @@
-#TODO: Erstelle die Funktion digit_sum
+def digit_sum(number):
+    number = str(number) # Zuerst in einen String umwandeln, damit durch diesen Interiert werden kann
+    sum = 0
+    for digit in number:
+        sum += int(digit) # Das digit in ein int umwandeln zum addieren
+    return sum
 
 
 def main():
