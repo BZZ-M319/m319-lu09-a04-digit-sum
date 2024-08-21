@@ -1,0 +1,26 @@
+[
+  {
+    "name": "test_digit_sum_function",
+    "function": "test_digit_sum_function",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_main_with_input_12345",
+    "function": "test_main_with_input_12345",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_main_with_input_101010",
+    "function": "test_main_with_input_101010",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_main_with_input_7",
+    "function": "test_main_with_input_7",
+    "timeout": 10,
+    "points": 1
+  }
+]
